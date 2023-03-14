@@ -12,7 +12,7 @@ I'm currently working on MERN stack web And Mobile Apps.<br>I'm looking to colla
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ravig1234&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravig1234&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
