@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on MERN stack web And Mobile Apps.<br>I'm looking to collaborate on software testing and optimization.<br>I'm looking for help with developing the latest, advanced and trending UI/UX designs.<br>I'm currently learning react-native, Kubernetes and cloud formation.<br>Ask me about IoT and innovative automation ideas.<br>fun fact - Life is a  continuous loop idea=>plan=>design=>develop=>test=>deploy=>feedback
+I'm currently working on MERN stack web And Mobile Apps.<br>I'm looking to collaborate on software design pattern and optimization.<br>I'm looking for help with developing the latest, advanced and trending UI/UX designs.<br>I'm currently learning react-native, Kubernetes and cloud formation.<br>Ask me about IoT and innovative automation ideas.<br>fun fact - Life is a  continuous loop idea=>plan=>design=>develop=>test=>deploy=>feedback
 
 
 ## 🌐 Socials:
